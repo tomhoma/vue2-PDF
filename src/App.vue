@@ -14,7 +14,6 @@
           transition="scale-transition"
           width="40"
         />
-<v-button red></v-button>
         <v-img
           alt="Vuetify Name"
           class="shrink mt-1 hidden-sm-and-down"
